@@ -6,7 +6,10 @@
   "bin": {
     "bitandbang": "./bin/card.js"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giuseppemoi/card.git"
+  },
   "homepage": "https://bnb.im",
   "scripts": {
     "prepublish": "npm run build",
