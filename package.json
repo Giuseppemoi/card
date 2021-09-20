@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Giuseppe Moi",
+  "author": "Giuseppe Moi <hello@bnb.im> (http://bnb.im)",
   "files": [
     "bin/card.js",
     "bin/output"
