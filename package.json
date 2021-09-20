@@ -1,10 +1,10 @@
 {
-  "name": "@bnb/card",
+  "name": "@giuseppemoi/card",
   "version": "1.6.0",
   "description": "A personal card for Giuseppe Moi",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "giuseppemoi": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Giuseppe Moi <hello@bnb.im> (http://bnb.im)",
+  "author": "Giuseppe Moi",
   "files": [
     "bin/card.js",
     "bin/output"
