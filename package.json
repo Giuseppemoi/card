@@ -1,5 +1,5 @@
 {
-  "name": "@giuseppemoi/card",
+  "name": "giuseppemoi",
   "version": "1.6.0",
   "description": "A personal card for Giuseppe Moi",
   "main": "/bin/card.js",
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/Giuseppemoi/card.git"
   },
-  "homepage": "https://bnb.im",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -36,11 +35,5 @@
     "chalk": "^2.4.1",
     "standard": "^12.0.1"
   },
-  "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
-  },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
